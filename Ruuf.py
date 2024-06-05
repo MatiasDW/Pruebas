@@ -48,7 +48,7 @@ best_fit_con_rotacion()
 #_______________________________SECCION BONUS_______________________________________________
 
 
-#--------------------------------------DEBUG-------------------------------------------------
+#-------------------------------PROBAR BONUS 1----------------------------------------------
 ##Techo triangular isosceles
 #def max_paneles_en_triangulo(base, altura, a, b):
 #    def paneles_en_fila(fila_ancho, panel_ancho):
@@ -74,7 +74,7 @@ best_fit_con_rotacion()
 #print(max_paneles_en_triangulo(base_triangulo, altura_triangulo, ancho_panel, alto_panel))
 
 
-#-------------------------------------DEBUG-------------------------------------------------
+#--------------------------------PROBAR BONUS 2-----------------------------------------------
 #Rectangulos superpuestos 
 #def max_paneles_superpuestos(x, y, a, b, d):
 #    def paneles_en_techo(techo_ancho, techo_alto, panel_ancho, panel_alto):
